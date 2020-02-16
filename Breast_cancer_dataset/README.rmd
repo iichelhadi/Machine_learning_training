@@ -1,4 +1,4 @@
-Data Set Information:
+# Data Set Information:
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. A few of the images can be found at [Web Link]
 
@@ -10,7 +10,7 @@ This database is also available through the UW CS ftp server:
 ftp ftp.cs.wisc.edu
 cd math-prog/cpo-dataset/machine-learn/WDBC/
 
-Attribute Information:
+# Attribute Information:
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
